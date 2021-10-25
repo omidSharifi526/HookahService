@@ -32,10 +32,6 @@ function Home() {
 
     return (
         
-       
-
-     
-
         <div>
            
             <div className=' container-fluid totalContainer'>
