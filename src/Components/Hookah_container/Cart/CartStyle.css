@@ -1,0 +1,52 @@
+.hookCardContainer{
+    width: 200%;
+    height: 200px;
+    background-color: rgb(19,19,19);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+
+}
+.cardHeader{
+width: 100%;
+height: 50px;
+display: flex;
+justify-content: space-between;
+
+
+}
+.imgs{
+    width: 150px;
+    margin-top: -75px;
+    height: 200px;
+
+}
+span{
+    font-size: 0.75rem;
+}
+
+
+.cardBody{
+    width: 100%;
+    height: 100px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+.footerCard{
+    width: 100%;
+    height: 100px;
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+.mybutton{
+    font-size: 0.75rem;
+}

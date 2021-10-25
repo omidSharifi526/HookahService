@@ -1,0 +1,17 @@
+.happyContainer{
+    width: 250px;
+    height: 65px;
+    backdrop-filter: blur(50%);
+    background-color:#41c48518;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+   
+
+}
+.happyContainer span{
+    color: rgb(134, 81, 0);
+    font-size: 10px;
+}

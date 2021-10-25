@@ -1,0 +1,16 @@
+.Loader_container{
+    background-color: rgba(0, 0, 0, 0.925);
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    z-index: 9999;
+    color: burlywood;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all ease 2s;
+}
+.notshow{
+    display: none;
+}

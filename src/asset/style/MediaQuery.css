@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px) {
+    .totalContainer{
+        margin-top: 0px;
+    }
+    .text_landing_content{
+        margin-top: 0;
+    }
+    .msl{
+        width: 100%;
+    }
+    .service_btn_containers{
+        width: 100px;
+        height: 95px;
+    }
+    .logo{
+        width:'10px'
+    }
+
+
+  }

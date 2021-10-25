@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: 'is';
+    src: url('../fonts//ttf/IRANSansWeb(FaNum)_Bold.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'is';
+}
+
+
+body{
+   
+  
+    background: rgb(0,0,0);
+    background: linear-gradient(120deg, rgba(0,0,0,1) 66%, rgba(84,0,0,1) 97%);
+    
+    
+   
+}
+.totalContainer{
+   
+    
+ 
+    min-height: 400vh;
+   
+
+ 
+    background: linear-gradient(138deg, rgba(255, 255, 255, 0.185) 0%, rgba(0, 0, 0, 0.199) 100%);
+
+}
+
+.landImg{
+    width: 500px;
+    height: 450px;
+}

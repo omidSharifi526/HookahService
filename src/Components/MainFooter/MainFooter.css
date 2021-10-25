@@ -1,0 +1,50 @@
+.colOfFooter{
+    direction: rtl;
+    height: 300px;
+    
+}
+.colOfFooter span{
+    font-size: 12px;
+}
+.connectWithus{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: space-evenly;
+
+
+
+
+}
+.loginFooterMainDiv{
+    height: 175px;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.txtfooter{
+    font-size: 10px !important;
+    letter-spacing: -0.5px;
+}
+.bt{
+    font-size: 12px !important;
+}
+input[type='text']{
+font-size: 10px;
+}
+.col-foot-styel{
+   height: 70% !important;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-top: 7px;
+    font-size: 0.90rem;
+}
+.flogo{
+    width: 200px;
+    height: 200px;
+}

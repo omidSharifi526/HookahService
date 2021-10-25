@@ -1,0 +1,13 @@
+.mainImg{
+    width: 150px;
+}
+.main_text{
+    font-size: 0.75rem;
+    animation: alternate infinite 1s ease main_text_effect ;
+
+
+}
+@keyframes main_text_effect {
+    from{}
+    to{color: #fff;}
+}

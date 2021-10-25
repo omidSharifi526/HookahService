@@ -1,0 +1,23 @@
+.footer_rotations_img{
+    width: 110px;
+    animation: 3s  imgRotate infinite alternate 2s ease ;
+    margin-top: -20px;
+
+
+}
+@keyframes imgRotate {
+    form{
+        transform: rotate(50deg);
+        
+
+    }
+    50%{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(60deg ) scale(120%);
+        filter: brightness(150%);
+        
+      
+    }
+}
